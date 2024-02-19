@@ -1,3 +1,3 @@
 const func0 = () => { 
-  console.log("test"); 
+  console.log("whitespace branch"); 
 }
