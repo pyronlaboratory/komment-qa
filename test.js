@@ -1,3 +1,4 @@
-const func0 = () => { 
+const fun0 = () => { 
+  
   console.log("test"); 
 }
