@@ -1,1 +1,3 @@
-const fn = () => { console.log("info"); }
+const fn = () => { 
+  console.log("info"); 
+}
