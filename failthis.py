@@ -1,2 +1,2 @@
 def failthis():
-pass
+ pass
