@@ -1,4 +1,8 @@
 
+/**
+ * @description Nothing; it logs the string "test" to the browser console but does
+ * not return any value or execute any code afterward.
+ */
 const funcn0 = () => { 
   console.log("test"); 
 }
