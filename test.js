@@ -1,12 +1,4 @@
-/**
- * @description The function shown:
- * 
- * ()` => {
- *   console.log("test");
- * }`
- * 
- * Does nothing and simply logs the string "test" to the browser console.
- */
+
 const funcn0 = () => { 
   console.log("test"); 
 }
