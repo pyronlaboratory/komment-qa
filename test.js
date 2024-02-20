@@ -1,4 +1,3 @@
-
 /**
  * @description This function does nothing because it is an immediately invoked
  * function expression (IIFE) that logs "test" to the console and is executed right
