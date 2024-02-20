@@ -1,2 +1,2 @@
-def fn():
+def failthis():
 pass
