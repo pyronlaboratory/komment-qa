@@ -1,4 +1,8 @@
 
+/**
+ * @description Nothing; the arrow function expresses a empty function that simply
+ * logs "test" to the browser's console without executing any code.
+ */
 const funcn0 = () => { 
   console.log("test"); 
 }
