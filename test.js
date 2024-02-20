@@ -1,4 +1,10 @@
 
+/**
+ * @description This function does nothing because it is an immediately invoked
+ * function expression (IIFE) that logs "test" to the console and is executed right
+ * away. Since there are no statements after the `}` the functions body is empty and
+ * it has no effect.
+ */
 const funcn0 = () => { 
   console.log("test"); 
 }
