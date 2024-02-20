@@ -1,4 +1,4 @@
 const funcn0 = () => { 
-  console.log("test");  
+  console.log("test");
 }
 
