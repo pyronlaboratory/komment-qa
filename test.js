@@ -1,9 +1,4 @@
 
-
-/**
- * @description The anonymous function() { console.log("test"); } will log the string
- * "test" to the console.
- */
 const funcn0 = () => { 
   console.log("test"); 
 }
