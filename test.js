@@ -1,8 +1,4 @@
 
-/**
- * @description The arrow function anonymous self-invoking function expression prints
- * the word "test" to the browser console.
- */
 const funcn0 = () => { 
   console.log("test"); 
 }
