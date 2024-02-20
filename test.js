@@ -1,4 +1,8 @@
 
+/**
+ * @description The function does nothing; it logs the string "test" to the console
+ * but has no effect as the logged message is not seen by anyone.
+ */
 const funcn0 = () => { 
   console.log("test"); 
 }
