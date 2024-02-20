@@ -1,4 +1,7 @@
 
+/**
+ * @description The code logs the string "test" to the console once.
+ */
 const funcn0 = () => { 
   console.log("test"); 
 }
