@@ -1,4 +1,8 @@
 
+/**
+ * @description This function does nothing. It is an empty function expression that
+ * simply logs the string "test" to the console once and then finishes executing.
+ */
 const funcn0 = () => { 
   console.log("test"); 
 }
