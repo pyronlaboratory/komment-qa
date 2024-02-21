@@ -1,1 +1,2 @@
-def failthis():
+def func():
+  print("ok")
