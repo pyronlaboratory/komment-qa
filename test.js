@@ -1,12 +1,4 @@
 
-const funcn0 = () => { 
-  console.log("test"); 
-}
-
-
-const funcn0 = () => { 
-  console.log("test"); 
-}
 
 /**
  * @description Nothing. It is an empty function expression that outputs "test" to
