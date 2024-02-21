@@ -1,3 +1,7 @@
+/**
+ * @description Nothing. It is an empty function. There is no execution logic and no
+ * value returned.
+ */
 const funcn0 = () => { 
   console.log("test"); 
 }
