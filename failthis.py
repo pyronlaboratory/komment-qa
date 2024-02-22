@@ -1,2 +1,2 @@
 def func():
-  print("ok")
+?pass
