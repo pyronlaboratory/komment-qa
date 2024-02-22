@@ -1,1 +1,3 @@
-🐛
+const 🐛 = (...) => {
+  return process.exit();
+}
